@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+
+langchain==0.1.20
+langchain-community==0.0.38
+langchain-openai==0.1.7
+
+chromadb
+pypdf
+python-dotenv
+python-multipart
